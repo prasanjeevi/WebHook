@@ -1,0 +1,20 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "webhook poc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "require"
+  ],
+  "author": "microservice",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
